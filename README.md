@@ -1,10 +1,6 @@
 
 # Readme
 
-Readme 是一个在线编辑器，可以帮助开发人员为他们快速的制作项目的README.md，同时也满足Github个人主页的一些模板
-**[点击这里体验](https://readme.imyuanli.cn)**
-
-下面是一些例子
 
 # 你好, 我是Khan! 👋
 
@@ -15,11 +11,11 @@ Readme 是一个在线编辑器，可以帮助开发人员为他们快速的制�
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khan1019&" alt="Khan1019" /></p>
 
 ## 🚀 关于
-我是一个前端开发工程师...
+我是一个具有清澈、愚蠢的眼神的大学牲😤😤😤
 
 
 ## 🛠 技能
-Javascript, HTML, CSS...
+嘿嘿，啥也不会！
 
 
 ## 🔗 链接
@@ -55,36 +51,36 @@ Javascript, HTML, CSS...
 
 ## 将imyuanli替换为自己的github名称,readme替换为自己的仓库
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imyuanli&repo=readme)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Khan1019&repo=readme)](https://github.com/anuraghazra/github-readme-stats)
 
 **[更多参数](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md#github-更多置顶)**
 
 ## 将imyuanli替换为自己的github名称
 
-[![imyuanli's GitHub stats](https://github-readme-stats.vercel.app/api?username=imyuanli)](https://github.com/anuraghazra/github-readme-stats)
+[![Khan1019's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khan1019)](https://github.com/anuraghazra/github-readme-stats)
 
 **[更多参数](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md#github-统计卡片)**
 
 ## 将imyuanli替换为自己的github名称
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imyuanli)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khan1019)](https://github.com/anuraghazra/github-readme-stats)
 
 **[更多参数](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md#github-热门语言卡片)**
 
 ## 将imyuanli替换为自己的github名称
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imyuanli)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Khan1019)](https://git.io/streak-stats)
 
 **[更多参数](https://github-readme-streak-stats.herokuapp.com/demo)**
 
 ## 将imyuanli替换为自己的github名称
 
-![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=imyuanli)
+![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=Khan1019)
 
 **[更多参数](https://github.com/antonkomarev/github-profile-views-counter)**
 
 ## 将imyuanli替换为自己的github名称
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imyuanli&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Khan1019&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 **[更多参数](https://github.com/ryo-ma/github-profile-trophy)**
