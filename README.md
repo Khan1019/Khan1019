@@ -6,9 +6,9 @@ Readme 是一个在线编辑器，可以帮助开发人员为他们快速的制�
 
 下面是一些例子
 
-# 你好, 我是鸢离! 👋
+# 你好, 我是Khan! 👋
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imyuanli&show_icons=true&locale=en&layout=compact" alt="imyuanli" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khan1019&show_icons=true&locale=en&layout=compact" alt="Khan1019" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imyuanli&show_icons=true&locale=en" alt="imyuanli" /></p>
 
