@@ -1,3 +1,4 @@
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 10px;">
 # 你好, 我是Khan! 👋
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khan1019&show_icons=true&locale=en&layout=compact" alt="Khan1019" /></p>
@@ -10,3 +11,4 @@
 
 ## 🛠 技能
 嘿嘿，啥也不会！
+</div>
