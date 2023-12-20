@@ -96,9 +96,4 @@ Email: [sh.fu@outlook.com](mailto:sh.fu@outlook.com)
 
 ### Recent ⌛
 
-<p align="center">
-  <a href="https://wakatime.com/@e024e23b-0211-4224-b6ed-23c808e3d2e9">
-    <img align="center" src="https://raw.githubusercontent.com/Khan1019/Khan1019/master/images/wakatime_weekly_language_stats.svg">
-    <img align="center" src="https://raw.githubusercontent.com/Khan1019/Khan1019/master/images/wakatime_weekly_project_stats.svg">
-  </a>
-</p>
+Now nothing!
