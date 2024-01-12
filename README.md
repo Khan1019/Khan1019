@@ -31,7 +31,7 @@ I'm currently learning [CMU 10-414/714 Deep Learning Systems](https://dlsyscours
 <!--
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&pause=1000&width=435&lines=Fr4nk1in.profile()" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&pause=1000&width=435&lines=Khan1019.profile()" alt="Typing SVG" />
   </a>
 </p>
 -->
