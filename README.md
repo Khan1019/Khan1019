@@ -38,9 +38,6 @@ I'm currently learning [CMU 10-414/714 Deep Learning Systems](https://dlsyscours
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Khan1019?style=for-the-badge" alt="followers">
-  <a href="https://wakatime.com/@e024e23b-0211-4224-b6ed-23c808e3d2e9">
-    <img src="https://wakatime.com/badge/user/e024e23b-0211-4224-b6ed-23c808e3d2e9.svg?style=for-the-badge" alt="wakatime">
-  </a>
 </p>
 
 <p align="center">
