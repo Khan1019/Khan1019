@@ -4,13 +4,7 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Khan1019" alt="Khan1019" /></p>
 
 Study for creating another world.
-
-Pursue eternity and truth.
-
 为创世而读书。
-
-追求永恒与真理。
-
 <details>
 <summary>Introduction to My Open Source</summary>
 
