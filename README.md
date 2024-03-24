@@ -38,7 +38,7 @@ Other                    20 mins             ░░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/liuly0322/liuly0322/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/Khan1019/Khan1019/main/assets/bar_graph.png)
 
 
  Last Updated on 2024-03-24 01:02:22 UTC
