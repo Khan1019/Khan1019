@@ -1,96 +1,45 @@
-
-# 你好, 我是Khan! 👋
-
-## 🚀 关于
-USTC摆烂人，很后悔摆了两年半，如果你看到这段话，请以我为鉴吧！
-/孩子们，加油吧！
-## 🛠 技能
-嘿嘿，啥也不会！
-
 ### Hi there 👋
 
-<!--
-**Khan1019/Khan1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student studying in USTC (University of Science and Technology of China).
 
-Here are some ideas to get you started:
+- 🐶 Homepage: <https://liuly.moe/>.
+- 🕊️ Blog: <https://blog.liuly.moe/>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<!--
-I'm currently learning [CMU 10-414/714 Deep Learning Systems](https://dlsyscourse.org), see my repo [cmu-dl-sys](https://github.com/Khan1019/cmu-dl-sys.git) for details.
--->
+<img align="right" height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liuly0322&theme=vue">
 
-<!--
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&pause=1000&width=435&lines=Khan1019.profile()" alt="Typing SVG" />
-  </a>
-</p>
--->
+#### 📝 Recent Blog Posts ([Subscribe](https://blog.liuly.moe/feed.xml))
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Khan1019?style=for-the-badge" alt="followers">
-</p>
+<!-- feed start -->
 
-<p align="center">
-</p>
+- Mar 13 - [一次类型体操 & TypeScript 中的特殊类型](https://blog.liuly.moe/posts/top-and-bottom-type)
+- Mar 05 - [记一次打包体积优化](https://blog.liuly.moe/posts/tree-shaking)
+- Feb 26 - [PWA 补完计划](https://blog.liuly.moe/posts/pwa)
+- Feb 23 - [Anime List!](https://blog.liuly.moe/posts/bangumi_anime_list)
+- Feb 22 - [从零开始的调试器编写！](https://blog.liuly.moe/posts/debugger-from-scratch)
+  <!-- feed end -->
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khan1019&theme=tokyonight" alt="summary">
-  <!--
-  <br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khan1019&theme=tokyonight&hide=vhdl,systemverilog" alt="lang-by-repo">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khan1019&theme=tokyonight&hide=vhdl,systemverilog" alt="lang-by-commit">
-  -->
-  <br>
-  <img align="center" src="http://github-readme-stats.vercel.app/api?username=Khan1019&theme=tokyonight&show_icons=true&hide_border=true" alt="stats">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Khan1019&theme=tokyonight&utcOffset=8" alt="commits">
-  <br>
-  <!--
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khan1019&theme=tokyonight" alt="streaks">
-  -->
-</p>
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C154%20hrs%2032%20mins-blue)
 
-<!--
-### Laptop 💻
-![Lenovo](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
-![CPU](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![GPU](https://img.shields.io/badge/NVIDIA-MX350-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+📊 **This Week I Spent My Time On** 
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
-![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+```text
+🕑︎ Time Zone: Asia/Shanghai
 
-### IDEs and Tech Stack 👨‍💻
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
+💬 Programming Languages: 
+TypeScript               19 hrs 33 mins      ██████████████████░░░░░░░   73.20 % 
+JavaScript               4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Vue.js                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
--->
+**Timeline**
 
-<!--
-### Contact ☎️
+![Lines of Code chart](https://raw.githubusercontent.com/liuly0322/liuly0322/main/assets/bar_graph.png)
 
-Email: [sh.fu@outlook.com](mailto:sh.fu@outlook.com)
--->
 
-### Recent ⌛
-
-Now nothing!
+ Last Updated on 2024-03-24 01:02:22 UTC
+<!--END_SECTION:waka-->
